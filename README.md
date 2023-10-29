@@ -10,7 +10,9 @@
 
 - 📝 I regularly write my philosophy on [https://medium.com/@sudhxan](https://medium.com/@sudhxan)
 
-- 💬 Ask me about **Microsoft Excel, PowerPoint, JIRA, Confluence, Business Management, Strategy, Data Analytics, Machine Learning, Consulting, SAP, Salesforce**
+- 💬 Power Skills **Communication, Relationship Building, Teamwork, Critical Thinking, Time Management, Negotiation, Strategy, Emotional Intelligence, Problem Solving.**
+
+- 📝 Business Technological Acumen -  **Microsoft Excel, PowerPoint, PowerBI, Tableau, SQL, JIRA, Confluence, Business Management, Strategy, Data Analytics, Machine Learning, Consulting, SAP, Salesforce** 
 
 - 📫 How to reach me **sudhxan@gmail.com**
 
