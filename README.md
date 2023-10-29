@@ -10,7 +10,7 @@
 
 - 📝 I regularly write my philosophy on [https://medium.com/@sudhxan](https://medium.com/@sudhxan)
 
-- 💬 Ask me about **Microsoft Excel, JIRA, Confluence, Business Management, Strategy, Data Analytics, Machine Learning, Consulting, SAP, Salesforce**
+- 💬 Ask me about **Microsoft Excel, PowerPoint, JIRA, Confluence, Business Management, Strategy, Data Analytics, Machine Learning, Consulting, SAP, Salesforce**
 
 - 📫 How to reach me **sudhxan@gmail.com**
 
