@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sudhan</h1>
 <h3 align="center">I wish your day has been fantastic as you read this. I am Hariharasudhan, a versatile professional pursuing Master's in Digital Innovation and Data Science with a passion for exploring the realms of technology, business and creativity. With a solid foundation in business analytics, I've delved into the world of full-stack development and data science, crafting comprehensive solutions that bridge the gap between data and functionality. My journey extends further into the realm of design, where I've honed my skills as a UI/UX and graphic designer, creating intuitive and visually appealing experiences. But that's not all. I find inspiration through the lens as a photographer, capturing moments that tell unique stories. Beyond the digital realm, I'm an avid reader of philosophy, constantly seeking to enrich my understanding of the human experience. Every day, I strive to evolve into a better version of myself, both professionally and personally. Curiosity drives me to uncover the endless possibilities that await in life's journey, and I'm excited to see what the future holds. Let's connect!</h3>
 
-<img src="https://www.careerguide.com/career/wp-content/uploads/2021/08/0_dwqgEuIyrpG4sn0N.gif" width="200" height="200" style="float:right"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhxan&label=Profile%20views&color=0e75b6&style=flat" alt="sudhxan" /> </p>
 
