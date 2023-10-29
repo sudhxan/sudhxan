@@ -10,7 +10,7 @@
 
 - 📝 I regularly write my philosophy on [https://medium.com/@sudhxan](https://medium.com/@sudhxan)
 
-- 💬 Power Skills **Communication, Relationship Building, Teamwork, Critical Thinking, Time Management, Negotiation, Strategy, Emotional Intelligence, Problem Solving.**
+- 💬 Power Skills **Communication, Relationship Building, Teamwork, Critical Thinking, Time Management, Negotiation, Strategy, Emotional Intelligence, Problem Solving**
 
 - 📝 Business Technological Acumen -  **Microsoft Excel, PowerPoint, PowerBI, Tableau, SQL, JIRA, Confluence, Business Management, Strategy, Data Analytics, Machine Learning, Consulting, SAP, Salesforce** 
 
