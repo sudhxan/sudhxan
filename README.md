@@ -1,6 +1,6 @@
 # Hi, I'm Hariharasudhan
 
-#### Max Planck Society Fellow, MITACS GRI Scholar, Globalink GGF Fellow.
+#### Max Planck Society Fellow, MITACS GRI Scholar, Globalink GGF Fellow, Master's Grad and a Data Scientist.
 
 I build things across Machines, AI, data and web.
 
