@@ -1,8 +1,8 @@
 # Hi, I'm Hariharasudhan
 
-Data Scientist and full-stack developer. Max Planck Society Fellow, MITACS GRI Scholar, Globalink GGF Fellow.
+### Max Planck Society Fellow, MITACS GRI Scholar, Globalink GGF Fellow.
 
-I build things across AI, data, web, and design.
+I build things across Machines, AI, data and web.
 
 ### What I work with
 
