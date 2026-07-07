@@ -16,7 +16,7 @@ I build things across Machines, AI, data and web.
 
 **Databases** — PostgreSQL, MySQL, MongoDB, SQLite
 
-**Cloud & tools** — AWS, Azure, GCP, Docker, Git, Linux, PostHog, Superwall(OAuth)
+**Cloud & tools** — AWS, Azure, GCP, Docker, Git, Linux, PostHog, Superwall , OAuth
 
 **Applied AI** — vapi, LangGraph, embeddings & vector search, structured outputs, eval, agent harness engineering, n8n, crewAI.
 
